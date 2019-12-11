@@ -6,6 +6,8 @@
 
 # Target and IDE folder
 target/
+logs/
+log/
 .idea/
 .allure/
 allure-results/
